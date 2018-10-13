@@ -18,4 +18,5 @@ Git
 Git has a mutable index called stage.\
 Creating a 
 \f1\b \cf4 new
-\f0\b0 \cf2  branch is quick.}
+\f0\b0 \cf2  branch is quick.
+Creating a new branch is quick AND simple.}
