@@ -1,4 +1,4 @@
-{\rtf1\ansi\ansicpg936\cocoartf1671
+i{\rtf1\ansi\ansicpg936\cocoartf1671
 {\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;}
 {\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
 }
@@ -18,4 +18,4 @@ Git
 Git has a mutable index called stage.\
 Creating a 
 \f1\b \cf4 new
-\f0\b0 \cf2  branch is quick.}
+\f0\b0 \cf2  branch is quick & simple.}
