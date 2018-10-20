@@ -22,5 +22,6 @@ Creating a
 \f0\b0 \cf2  branch is quick & simple.}
 =======
 \f0\b0 \cf2  branch is quick.
-Creating a new branch is quick and simple.}
+Creating a new branch is quick and simple.
+1234567}
 >>>>>>> feature1
